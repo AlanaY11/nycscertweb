@@ -1,7 +1,7 @@
 
 # nycscertweb
 
-##👋🏽🤓🇬🇾 Hi, I’m @AlanaY11....Alana
+##👋🏽🤓 🇬🇾 💃🏽 🌎 💝 Hi, I’m @AlanaY11....Alana
 
 ######👀 I’m interested in ...coding, computing, creative computing, ethics and computing and teaching this to neurodiverse learners.
 
@@ -11,3 +11,4 @@
 
 ######📫 Please reach out ...
 
+![elafonissi crete gr](https://user-images.githubusercontent.com/17364335/180577561-19e19c06-555f-451d-a1af-fa64e8fd6951.jpeg)
