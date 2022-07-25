@@ -10,16 +10,19 @@
 
 ######📫 🤩 💡 🦋 Please reach out ...
 
-# Are you a Coding Newbie in Java like me? Let's support each other!! 
-
+# Are you a Coding Newbie in Java like me? Let's support each other!! WARM-UP: MEDITATE, SING, DANCE > THEN CODE
+## MEDITATE
 * [Before we start our daily programmming let's begin our day with a 10-minute mindful and daily meditation activity] (https://www.youtube.com/watch?v=j7d5Plai03g)
+
+## SING & DANCE
 * Then let's do a bit of a dance and sign along to activate your cells...these are my warm up song...at least it works for me: 
     1. [Savannah Grass by Kes the Band] (https://www.youtube.com/watch?v=bXXq4RBKhtc)
     2. [Three Little Birds by Bob Marley] (https://www.youtube.com/watch?v=HNBCVM4KbUM)
     3. [Girl on Fire by Alicia Keys] (https://www.youtube.com/watch?v=J91ti_MpdHA)
     4. [I am Here Live by Pink] (https://www.youtube.com/watch?v=g8hHcktMTAI)
-    5. [Cose Della Vita-Can't Stop Thinking of You by Tina Turner & Eros Ramazzotti ](https://www.youtube.com/watch?v=rVYCwXy9g_A)
+    5. [Cose Della Vita-Can't Stop Thinking of You by Tina Turner & Eros Ramazzotti] (https://www.youtube.com/watch?v=rVYCwXy9g_A)
 
+## POSITIVE SELF-TALK
 # Tips for Combating the "Imposter Syndrome" as a CS student: (Articles):
 * In a nutshell it is the feeling of self-doubt and inadequacy as a new programmer and when you're learning computer science.
 * [Programmer Imposter Syndrome: 6 Ways to Get Over Yours] 
@@ -37,6 +40,7 @@
 # Tips for Combating the "Imposter Syndrome" as a CS student (Videos):
 * [MY Struggles w/ IMPOSTOR SYNDROME: How I GOT RID OF IMPOSTOR SYNDROME as a Computer Science Major] (https://www.youtube.com/watch?v=tWfvlTXrulE)
 * [How Imposter Syndrome Makes the Tech Gender Gap Even Worse](https://www.techrepublic.com/article/how-imposter-syndrome-makes-the-tech-gender-gap-even-worse/)
+* [Imposter Syndrome at Coding Bootcamp (& how to kick it)] (https://www.youtube.com/watch?time_continue=100&v=UL4Se2ofUW8&feature=emb_logo)
 * 
 
 # Then here's my quirky Self-Talk:
@@ -44,7 +48,7 @@
 ## * Yes you can ... ✅ 🤩 🌺 👍🏽 🤓 💎
 ### * Hope and change: you got this... 🤓 🧠 👊🏽 💡 🌎 🎼☄ 🌳 📀 ☎️ 💾 🌻
 
-
+## END OF DAY: YOUR VIEW
 
 ![elafonissi crete gr](https://user-images.githubusercontent.com/17364335/180581118-1d3970f7-2075-4d90-aef5-8dee0ced4f05.jpeg)
 
