@@ -41,7 +41,7 @@
 * [MY Struggles w/ IMPOSTOR SYNDROME: How I GOT RID OF IMPOSTOR SYNDROME as a Computer Science Major] (https://www.youtube.com/watch?v=tWfvlTXrulE)
 * [How Imposter Syndrome Makes the Tech Gender Gap Even Worse](https://www.techrepublic.com/article/how-imposter-syndrome-makes-the-tech-gender-gap-even-worse/)
 * [Imposter Syndrome at Coding Bootcamp (& how to kick it)] (https://www.youtube.com/watch?time_continue=100&v=UL4Se2ofUW8&feature=emb_logo)
-* 
+* [Tackling Imposter Syndrome in Tech] (https://www.youtube.com/watch?v=hrHZE4HWF0o)
 
 # Then here's my quirky Self-Talk:
 # * Brain don't fail me now... 🧠 😜 💖 ⏰ 🌠 😜 😱 🤣
