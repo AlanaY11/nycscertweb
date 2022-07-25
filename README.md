@@ -3,7 +3,7 @@
 
 ## Hunter College Advanced Certificate in Computer Science
 
-##👋🏽🤓 🇬🇾 💃🏽 🌎 💝 Hi, I’m @AlanaY11....Alana Robinson
+##👋🏽 🤓 🇬🇾 💃🏽 🌎 💝 Hi, I’m @AlanaY11....Alana Robinson
 
 ######👀 🐝 📚🧠 I’m interested in ...coding, computing, creative computing, ethics and computing and teaching this to neurodiverse learners.
 
@@ -18,6 +18,7 @@
 # [Here's my Portfolio in Java](https://github.com/AlanaY11/nycscertweb/blob/main/myCSPortfolio)
 
 ....
+# CSCI 70900 Programming in a high language
 ## Demo in Player vs. AI
 ## [Nim Game](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/programming/1/Nim.java) 
 .......
@@ -31,6 +32,23 @@
 [Super Array](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/programming/6/sa/SuperArray.java)
 [Super Array Driver](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/programming/6/sa/SuperArrayDriver.java)
 ..........
+# CSCI 70300 Data Structures in a high language
+
+## ArrayList
+[ArrayList](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/arraylists/AlPractice.java)
+
+## LinkedList
+[LinkedList](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/linkedlists/LinkedList.java)
+[LinkedList Driver](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/linkedlists/Driver.java)
+
+## SortSearch
+[SortSearch](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/sorting/SortSearch.java)
+[SortSearch Driver](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/sorting/SortSearchDriver.java)
+.....
+
+# SEDC 71900 Methods I
+.......
+
 
 ![if_else code giphy](https://user-images.githubusercontent.com/17364335/180868242-885a3600-f4a9-48df-aed3-80c070730beb.gif)
 
