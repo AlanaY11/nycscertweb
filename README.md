@@ -36,15 +36,15 @@
 # CSCI 70300 Data Structures in a high language
 
 ## ArrayList
-## [ArrayList](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/arraylists/AlPractice.java)
+## * [ArrayList](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/arraylists/AlPractice.java)
 
 ## LinkedList
-## [LinkedList](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/linkedlists/LinkedList.java)
-## [LinkedList Driver](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/linkedlists/Driver.java)
+## * [LinkedList](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/linkedlists/LinkedList.java)
+## * [LinkedList Driver](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/linkedlists/Driver.java)
 
 ## SortSearch
-## [SortSearch](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/sorting/SortSearch.java)
-## [SortSearch Driver](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/sorting/SortSearchDriver.java)
+## * [SortSearch](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/sorting/SortSearch.java)
+## * [SortSearch Driver](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/ds/sorting/SortSearchDriver.java)
 .....
 
 # SEDC 71900 Methods I
