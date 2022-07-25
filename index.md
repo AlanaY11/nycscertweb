@@ -18,12 +18,19 @@
 ....
 ## SING & DANCE
 * Then let's do a bit of a dance and sign along to activate your cells...these are my warm up song...at least it works for me: 
-    1. [Savannah Grass by Kes the Band](https://www.youtube.com/watch?v=bXXq4RBKhtc)
+    1. [Hello by Kes the Band](https://www.youtube.com/watch?v=eIIhVD8Wkro))
 
     2. [Three Little Birds by Bob Marley](https://www.youtube.com/watch?v=HNBCVM4KbUM)
+
     3. [Girl on Fire by Alicia Keys](https://www.youtube.com/watch?v=J91ti_MpdHA)
+
     4. [I am Here Live by Pink](https://www.youtube.com/watch?v=g8hHcktMTAI)
-    5. [Cose Della Vita-Can't Stop Thinking of You by Tina Turner & Eros Ramazzotti](https://www.youtube.com/watch?v=rVYCwXy9g_A)
+    5. 
+    6. [Cose Della Vita-Can't Stop Thinking of You by Tina Turner & Eros Ramazzotti](https://www.youtube.com/watch?v=rVYCwXy9g_A)
+
+    7. LET'S END WITH SOME SNIPPETS OF HIGH ENERGY DANCING & SINGING AS WE BRACE FOR OUR BRAIN CELLS TO BE ACTIVATED!! 
+      [Kes The Band Live in New York | IzWE Concert 2021](https://www.youtube.com/watch?v=-MCTJCVWNUs)
+
 
 ....
 ## POSITIVE SELF-TALK
