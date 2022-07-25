@@ -12,7 +12,7 @@
 
 # Are you a Coding Newbie in Java like me? Let's support each other!! 
 
-* Before we start our daily programmming let's begin our day with a 10-minute mindful and daily meditation activity https://www.youtube.com/watch?v=j7d5Plai03g
+* [Before we start our daily programmming let's begin our day with a 10-minute mindful and daily meditation activity https://www.youtube.com/watch?v=j7d5Plai03g)
 
 # Combating the Imposter Syndrome with Self-Talk:
 # * Brain don't fail me now... 💖 ⏰ 🌠 😜 😱 🤓
