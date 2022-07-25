@@ -25,14 +25,13 @@
     3. [Girl on Fire by Alicia Keys](https://www.youtube.com/watch?v=J91ti_MpdHA)
 
     4. [I am Here Live by Pink](https://www.youtube.com/watch?v=g8hHcktMTAI)
-    5. 
-    6. [Cose Della Vita-Can't Stop Thinking of You by Tina Turner & Eros Ramazzotti](https://www.youtube.com/watch?v=rVYCwXy9g_A)
 
-    7. LET'S END WITH SOME SNIPPETS OF HIGH ENERGY DANCING & SINGING AS WE BRACE FOR OUR BRAIN CELLS TO BE ACTIVATED!! 
+    5. [Cose Della Vita-Can't Stop Thinking of You by Tina Turner & Eros Ramazzotti](https://www.youtube.com/watch?v=rVYCwXy9g_A)
+    
+    6 LET'S END WITH SOME SNIPPETS OF HIGH ENERGY DANCING & SINGING AS WE BRACE FOR OUR BRAIN CELLS TO BE ACTIVATED!! 
       [Kes The Band Live in New York | IzWE Concert 2021](https://www.youtube.com/watch?v=-MCTJCVWNUs)
 
 
-....
 ## POSITIVE SELF-TALK
 # Tips for Combating the "Imposter Syndrome" as a CS student: (Articles):
 
@@ -51,7 +50,6 @@
  5. Find Mentorships.
  6. Curb negative self-talk.
  
-.....
 # Tips for Combating the "Imposter Syndrome" as a CS student (Videos):
 
 * [MY Struggles w/ IMPOSTOR SYNDROME: How I GOT RID OF IMPOSTOR SYNDROME as a Computer Science Major](https://www.youtube.com/watch?v=tWfvlTXrulE)
@@ -62,7 +60,7 @@
 
 * [Tackling Imposter Syndrome in Tech](https://www.youtube.com/watch?v=hrHZE4HWF0o)
 
-.....
+
 # Then here's my quirky Self-Talk:
 
 # * Brain don't fail me now... 🧠 😜 💖 ⏰ 🌠 😜 😱 🤣
