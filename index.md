@@ -1,4 +1,4 @@
-## Welcome to my ongoing CS Journey (learner > educator > activist for my students)...PART II
+## Welcome to my ongoing CS Journey (learner > educator > activist for my students) PART II
 
 ##👋🏽 🤓 🇬🇾 💃🏽 🌎 💝 Hi, I’m @AlanaY11....Alana
 
@@ -10,11 +10,14 @@
 
 ######📫 🤩 💡 🦋 Please reach out ...
 
+# Are you a Coding Newbie in Java like me? Let's support each other!! 
+
+* Before we start our daily programmming let's begin our day with a 10-minute mindful and daily meditation activity https://www.youtube.com/watch?v=j7d5Plai03g
 
 # Combating the Imposter Syndrome with Self-Talk:
-# Brain don't fail me now... 💖 ⏰ 🌠 😜 😱 🤓
-## Yes you can... ✅ 🤩 🌺 👍🏽 🤓 💎
-### Hope and change...👊🏽 💡 🌎 🎼☄ 🌳 📀 ☎️ 💾 🌻
+# * Brain don't fail me now... 💖 ⏰ 🌠 😜 😱 🤓
+## * Yes you can... ✅ 🤩 🌺 👍🏽 🤓 💎
+### * Hope and change...👊🏽 💡 🌎 🎼☄ 🌳 📀 ☎️ 💾 🌻
 
 
 
