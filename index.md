@@ -12,6 +12,9 @@
 
 # Are you a Coding Newbie in Java like me? Let's support each other!! WARM-UP: MEDITATE, SING, DANCE > > THEN CODE
 
+## [Here's my Portfolio in progress...](https://github.com/AlanaY11/nycscertweb/blob/gh-pages/portfolio)
+
+
 ## MOOD METER CHECK-IN: HOW ARE YOU FEELING TODAY?
 
 ![mood meter 2](https://user-images.githubusercontent.com/17364335/180696717-3b5d5202-799c-4eb7-b3b8-2788889f616c.jpeg)
