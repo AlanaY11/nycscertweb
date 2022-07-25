@@ -14,8 +14,6 @@
 
 ## MOOD METER CHECK-IN: HOW ARE YOU FEELING TODAY?
 
-![mood meter check in](https://user-images.githubusercontent.com/17364335/180696660-0bdcd0aa-2246-4325-9713-a792de8216d1.jpeg)
-
 ![mood meter 2](https://user-images.githubusercontent.com/17364335/180696717-3b5d5202-799c-4eb7-b3b8-2788889f616c.jpeg)
 
 
