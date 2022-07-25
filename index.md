@@ -27,8 +27,8 @@
     4. [I am Here Live by Pink](https://www.youtube.com/watch?v=g8hHcktMTAI)
 
     5. [Cose Della Vita-Can't Stop Thinking of You by Tina Turner & Eros Ramazzotti](https://www.youtube.com/watch?v=rVYCwXy9g_A)
-    
-    6 LET'S END WITH SOME SNIPPETS OF HIGH ENERGY DANCING & SINGING AS WE BRACE FOR OUR BRAIN CELLS TO BE ACTIVATED!! 
+
+    6. LET'S END WITH SOME SNIPPETS OF HIGH ENERGY DANCING & SINGING AS WE BRACE FOR OUR BRAIN CELLS TO BE ACTIVATED!! 
       [Kes The Band Live in New York | IzWE Concert 2021](https://www.youtube.com/watch?v=-MCTJCVWNUs)
 
 
