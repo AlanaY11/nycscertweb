@@ -15,7 +15,7 @@
 
 ![thank goodness coding course giphy](https://user-images.githubusercontent.com/17364335/180868175-25b3d45a-9cf1-42ff-83f2-1658622d86ca.gif)
 
-# [Here's my Portfolio in Java](https://github.com/AlanaY11/nycscertweb/blob/main/myCSPortfolio)
+# CHECK OUT MY WORK IN JAVA 👇🏾👇🏾🎥👀💫💃🏽
 
 ....
 # CSCI 70900 Programming in a high language
@@ -29,8 +29,8 @@
 ## [Fib](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/programming/5/Fib.java)
 .........
 ## SuperArray
-## [Super Array](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/programming/6/sa/SuperArray.java)
-## [Super Array Driver](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/programming/6/sa/SuperArrayDriver.java)
+## * [Super Array](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/programming/6/sa/SuperArray.java)
+## * [Super Array Driver](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/programming/6/sa/SuperArrayDriver.java)
 ..........
 
 # CSCI 70300 Data Structures in a high language
