@@ -10,12 +10,18 @@
 
 📫 🤩 💡 🦋 Please reach out ...
 
-....
-# Are you a Coding Newbie in Java like me? Let's support each other!! WARM-UP: MEDITATE, SING, DANCE > THEN CODE
+# Are you a Coding Newbie in Java like me? Let's support each other!! WARM-UP: MEDITATE, SING, DANCE > > THEN CODE
+
+## MOOD METER CHECK-IN: HOW ARE YOU FEELING TODAY?
+
+![mood meter check in](https://user-images.githubusercontent.com/17364335/180696660-0bdcd0aa-2246-4325-9713-a792de8216d1.jpeg)
+
+![mood meter 2](https://user-images.githubusercontent.com/17364335/180696717-3b5d5202-799c-4eb7-b3b8-2788889f616c.jpeg)
+
+
 ## MEDITATE
 * [Before we start our daily programmming let's begin our day with a 10-minute mindful and daily meditation activity](https://www.youtube.com/watch?v=j7d5Plai03g)  
 
-....
 ## SING & DANCE
 * Then let's do a bit of a dance and sign along to activate your cells...these are my warm up song...at least it works for me: 
     1. [Hello by Kes the Band](https://www.youtube.com/watch?v=eIIhVD8Wkro))
@@ -30,7 +36,6 @@
 
     6. LET'S END WITH SOME SNIPPETS OF HIGH ENERGY DANCING & SINGING AS WE BRACE FOR OUR BRAIN CELLS TO BE ACTIVATED!! 
       [Kes The Band Live in New York | IzWE Concert 2021](https://www.youtube.com/watch?v=-MCTJCVWNUs)
-
 
 ## POSITIVE SELF-TALK
 # Tips for Combating the "Imposter Syndrome" as a CS student: (Articles):
