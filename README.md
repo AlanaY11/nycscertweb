@@ -1,7 +1,7 @@
 
 # nycscertweb  
 
-## Here is my portfolio for Hunter College Advanced Certificate in Computer Science
+## Here is my Portfolio for Hunter College's Advanced Certificate in Computer Science
 
 👋🏽 🤓 🇬🇾 💃🏽 🌎 💝 Hi, I’m @AlanaY11....Alana Robinson
 
@@ -55,7 +55,7 @@
 ## [05_Scaffold.md](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/methods/05_scaffold.md)
 ## [06_Scaffold_Activity.md](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/methods/06_scaffold_activity.md)
 ....
-## Toolbox: Some CS Tools I use (K -8th)
+## Toolbox: Some CS Tools I use (K-8th)
 ## [CS Teaching Tips](https://www.csteachingtips.org/)
 ## [Tynker CS for K-12 - from block-based Scratch-inspiredblocks up to text-based including AP CSA, Python, Javascript](https://www.tynker.com/)
 ## [Kodable CS for K-5 from block-Text Javascript](https://www.kodable.com)
@@ -71,6 +71,7 @@
 ## [Code.Org Cybersecurity & Global Impact Module 6+ with adaptations](https://studio.code.org/s/csp10-2022?section_id=3875654)
 ## [VidCode's Impacts of Computing 6+](https://about.vidcode.com/core-concept-impacts-of-computing)
 ..........
+
 ![if_else code giphy](https://user-images.githubusercontent.com/17364335/180868242-885a3600-f4a9-48df-aed3-80c070730beb.gif)
 
 ................
